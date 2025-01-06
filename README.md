@@ -1,6 +1,8 @@
 # Gestão de Resídos Easy Trash
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/WalterGoncalves-filho/Gestao-de-Residuos-app?type=dir&style=for-the-badge&label=QTD_Diretorios)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/WalterGoncalves-filho/Gestao-de-Residuos-app?style=for-the-badge)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/WalterGoncalves-filho/Gestao-de-Residuos-app?type=file&style=for-the-badge&label=QTD_Files&color=yellow)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
