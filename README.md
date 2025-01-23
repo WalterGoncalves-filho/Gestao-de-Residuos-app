@@ -48,7 +48,8 @@ Você pode baixar o apk do aplicativo para testes.<br>
     <img src="https://img.shields.io/badge/Apk_do_app-%23699929?logo=android&logoColor=white"/>
   </a> 
 </p>
-ou [Clique aqui!](https://github.com/WalterGoncalves-filho/Gestao-de-Residuos-app/tree/30484e5b38f6dacb640c89b529d56b1b873c5a93/Apk)
+
+<p>ou [Clique aqui!](https://github.com/WalterGoncalves-filho/Gestao-de-Residuos-app/tree/30484e5b38f6dacb640c89b529d56b1b873c5a93/Apk)</p>
 
 ## 📝 Licença
 
