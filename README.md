@@ -49,7 +49,7 @@ Você pode baixar o apk do aplicativo para testes.<br>
   </a> 
 </p>
 
-<p>ou [Clique aqui!](https://github.com/WalterGoncalves-filho/Gestao-de-Residuos-app/tree/30484e5b38f6dacb640c89b529d56b1b873c5a93/Apk)</p>
+ou <a href="https://github.com/WalterGoncalves-filho/Gestao-de-Residuos-app/tree/30484e5b38f6dacb640c89b529d56b1b873c5a93/Apk">Clique Aqui!</a>
 
 ## 📝 Licença
 
