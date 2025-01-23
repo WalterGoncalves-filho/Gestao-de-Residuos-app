@@ -42,10 +42,11 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Usando o Easy Trash
 
-Você pode baixar o apk do aplicativo para testes.
-<a href="https://drive.google.com/file/d/1h-_yJk8OUApCxPv_L8acaHjn1zlv0S9M/view?usp=sharing">
+Você pode baixar o apk do aplicativo para testes.<br>
+<a href="https://drive.google.com/file/d/1OtjmEPBRCgv_xigp7-Dpe_WV2pNFy6SY/view?usp=sharing">
     <img src="https://img.shields.io/badge/Apk_do_app-%23699929?logo=android&logoColor=white"/>
-</a> ou [Clique aqui!](https://github.com/WalterGoncalves-filho/Gestao-de-Residuos-app/tree/30484e5b38f6dacb640c89b529d56b1b873c5a93/Apk)
+</a> 
+ou [Clique aqui!](https://github.com/WalterGoncalves-filho/Gestao-de-Residuos-app/tree/30484e5b38f6dacb640c89b529d56b1b873c5a93/Apk)
 
 ## 📝 Licença
 
