@@ -10,7 +10,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 
 <p align="center">
-<img src="imagens/logo_semfundo.png" width="250">
+  <a href="https://easytrash.free.nf/?i=1">
+      <img src="https://github.com/user-attachments/assets/eada4ad9-1098-41b8-9651-d8872ce18e21" />
+  </a> 
 </p>
 
 > O objetivo do aplicativo é fornecer uma ferramenta simples e eficiente para gestão de resíduos sólidos, permitindo que os usuários acompanhem sua pegada de carbono e contribuam de forma ativa com o meio ambiente.
@@ -41,6 +43,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 ## ☕ Usando o Easy Trash
 
 Você pode baixar o apk do aplicativo para testes.
+<a href="https://drive.google.com/file/d/1h-_yJk8OUApCxPv_L8acaHjn1zlv0S9M/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Apk_do_app-%23699929?logo=android&logoColor=white"/>
+</a> ou [Clique aqui!](https://github.com/WalterGoncalves-filho/Gestao-de-Residuos-app/tree/30484e5b38f6dacb640c89b529d56b1b873c5a93/Apk)
 
 ## 📝 Licença
 
