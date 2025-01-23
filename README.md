@@ -42,15 +42,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Usando o Easy Trash
 
-Você pode baixar o apk do aplicativo para testes.<br>
-<p>
-  <a href="https://drive.google.com/file/d/1OtjmEPBRCgv_xigp7-Dpe_WV2pNFy6SY/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Apk_do_app-%23699929?logo=android&logoColor=white"/>
-  </a> 
-</p>
-
-ou <a href="https://github.com/WalterGoncalves-filho/Gestao-de-Residuos-app/tree/30484e5b38f6dacb640c89b529d56b1b873c5a93/Apk">Clique Aqui!</a>
-
+Você pode baixar o apk do aplicativo para testes ou visitar nosso Site 👇👇.<br>
+[![EasyTrash App](https://img.shields.io/badge/Easy-Trash_App-white?logo=paperless-ngx&logoColor=green&color=green&labelColor=white&style=flat-square)](https://drive.google.com/file/d/1OtjmEPBRCgv_xigp7-Dpe_WV2pNFy6SY/view?usp=sharing)
+[![EasyTrash Site](https://img.shields.io/badge/Easy-Trash_Site-white?logo=paperless-ngx&logoColor=green&color=green&labelColor=white&style=flat-square)](https://easytrash.free.nf/)
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
